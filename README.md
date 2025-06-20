@@ -1,8 +1,8 @@
 # MinerFergus_SourceCode
 
+## MinerFergus GitHub: [이동](https://github.com/ACEDIA2567/MinerFergus) </br>소스코드: [다운로드](https://github.com/user-attachments/files/20837212/Script.zip)
 
-
-
+## 소스 코드 트리
 📦Script    
  ┣ 📂Data  ▶ 데이터 구조    
  ┃ ┗ 📜EquipmentData.cs    
