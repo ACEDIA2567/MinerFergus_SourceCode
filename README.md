@@ -2,7 +2,7 @@
 
 ## MinerFergus GitHub: [이동](https://github.com/ACEDIA2567/MinerFergus) </br>소스코드: [다운로드](https://github.com/user-attachments/files/20868746/Script.zip)
 
-📦Script
+📦Script     
  ┣ 📂Data  ▶ 데이터 구조   
  ┃ ┗ 📜EquipmentData.cs     
  ┣ 📂Entity  ▶ 게임 내 오브젝트 관련    
