@@ -1,6 +1,8 @@
 # MinerFergus_SourceCode
 
-## MinerFergus GitHub: [이동](https://github.com/ACEDIA2567/MinerFergus) </br>소스코드: [다운로드](https://github.com/user-attachments/files/20868746/Script.zip)
+## MinerFergus GitHub: [이동](https://github.com/ACEDIA2567/MinerFergus) </br>
+## 소스코드: [다운로드](https://github.com/user-attachments/files/21837635/Script.zip)
+
 
 📦Script     
  ┣ 📂Data  ▶ 데이터 구조   
@@ -58,7 +60,7 @@
  ┃ ┣ 📜BlacksmithMiniGame.cs     
  ┃ ┣ 📜ForgeMiniGame.cs     
  ┃ ┗ 📜MiniGameNode.cs     
- ┣ 📂Player ▶ 플레이어의 기능
+ ┣ 📂Player ▶ 플레이어의 기능     
  ┃ ┣ 📜Player.cs     
  ┃ ┣ 📜PlayerAnimation.cs     
  ┃ ┣ 📜PlayerComponent.cs     
@@ -72,12 +74,12 @@
  ┃ ┗ 📜PlayerStatus.cs     
  ┣ 📂SaveLoad ▶ 저장&불러오기    
  ┃ ┗ 📜PlayerSaveLoad.cs     
- ┣ 📂Scene ▶ 씬 제어
+ ┣ 📂Scene ▶ 씬 제어     
  ┃ ┣ 📜Intro.cs     
  ┃ ┣ 📜Main.cs     
  ┃ ┣ 📜Mine.cs     
  ┣ ┗ 📜Tutorial.cs     
- ┣ 📂Sound ▶ 사운드 제어
+ ┣ 📂Sound ▶ 사운드 제어     
  ┃ ┣ 📜BGMSource.cs     
  ┃ ┗ 📜ButtonSound.cs     
  ┣ 📂UI ▶ UI 관련 컴포넌트  
@@ -98,7 +100,7 @@
  ┃ ┃ ┣ 📜UI_Interact_Next.cs     
  ┃ ┃ ┣ 📜UI_Interact_Quest.cs     
  ┃ ┃ ┗ 📜UI_Interact_Smithy.cs     
- ┃ ┣ 📂Player ▶ 장비창   
+ ┃ ┣ 📂Player ▶ 장비창        
  ┃ ┃ ┣ 📜PlayerEquipMentWindow.cs     
  ┃ ┃ ┗ 📜PlayerEquipMentWindowSlot.cs     
  ┃ ┣ 📂Press ▶ 누르기   
