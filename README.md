@@ -1,8 +1,10 @@
 # MinerFergus_SourceCode
 
 ## MinerFergus GitHub: [이동](https://github.com/ACEDIA2567/MinerFergus) </br>
-## 소스코드: [다운로드](https://github.com/user-attachments/files/21837635/Script.zip)
+## 소스코드: [다운로드](https://github.com/user-attachments/files/21837635/Script.zip)    
+## 소스코드(제가 작성한 코드만 모아둔 버전입니다.):[다운로드](https://github.com/user-attachments/files/22098118/MinerFergus.zip)    
 
+<hr>
 
 📦Script     
  ┣ 📂Data  ▶ 데이터 구조   
